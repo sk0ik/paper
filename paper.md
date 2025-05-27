@@ -298,7 +298,7 @@
 
 ## 光トラッピング
 
-光の電場により原子に力が加わるのでそれらの幾何学的な関係は重要です.光によって原子を束縛する光とラッピングと言う分野でベクトルビームを用いている論文を紹介します.
+光の電場により原子に力が加わるのでそれらの幾何学的な関係は重要です.光によって原子を束縛する光トラッピングと言う分野でベクトルビームを用いている論文を紹介します.
 
 ### [Optical trapping of nanotubes with cylindrical vector beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-16-3381)(2012)
 
@@ -393,7 +393,7 @@
 
 ### [PyFocus – A Python package for vectorial calculations of focused optical fields under realistic conditions. Application to toroidal foci](https://arxiv.org/abs/2110.00160)
 
-- MITの有志の方がベクトルビームの集光を計算するPythonパッケージを作っています.
+- ベクトルビームの集光を計算するPythonパッケージを作っています.
 
 高NAのレンズでベクトルビームを集光したときの振る舞いについての研究です.
 

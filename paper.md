@@ -232,8 +232,6 @@
 
 </details>
 
-<div style="page-break-before:always"></div>
-
 ## 教科書
 
 偏光に限った話でないですが自分が読んだ(読んでいる)教科書を紹介します.
@@ -249,8 +247,6 @@
 ### [はじめての光学-川田善正](https://www.kspub.co.jp/book/detail/1532878.html)(2014)
 
 - この本も光を学ぶときにとても分かりやすい本だと思います.p205-212に偏光を考慮した平面波をレンズによって集光したときのシミュレーションの方法が載っています.
-
-<div style="page-break-before:always"></div>
 
 ## 論文
 
@@ -282,19 +278,17 @@
 
 - これもSLMについての論文ですが2022年と新しいものなので最近のことが載っています.
 
-<div style="page-break-before:always"></div>
-
 ## レーザー加工
 
 偏光とレーザー加工は密接に関係しています.加工の形もそうですがベクトルビームはNAの高いレンズで集光すると伝播方向に小さいスポットを形成することができ,それを用いて微細な加工をすることができます.
 
 ### [偏光レーザビームを用いたレーザ加工の高効率化と高機能化](https://ci.nii.ac.jp/naid/500001007468)
 
-- None
+- ラジアル,アジマス偏光ビームで金属を加工した時の加工効率などベクトルビームと加工について詳しく述べられています.
 
 ### [Femtosecond Laser Processing by Using Patterned Vector Optical Fields](https://www.nature.com/articles/srep02281)
 
-- None
+- スカラービームとベクトルビームを用いて多点加工をした時の違いについて述べています.
 
 ## 光トラッピング
 
@@ -302,7 +296,7 @@
 
 ### [Optical trapping of nanotubes with cylindrical vector beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-16-3381)(2012)
 
-- None
+- ベクトルビームの中でのその種類によってトラッピングにどのような影響があるか述べています.
 
 ## 光スピントロニクス
 
@@ -312,9 +306,6 @@
 
 - 従来の光スピントロニクスではスピン励起に円偏光が用いられていました.この論文ではベクトルビームを用いてスピンを励起しています.円偏光と比べてスピンの持続時間が変わったりします.
 
-
-<div style="page-break-before:always"></div>
-
 ## 生成方法
 
 主にSLMを用いてベクトルビームを生成する論文を紹介します.
@@ -323,23 +314,17 @@
 
 - ベクトルビームを勉強するうえで初めて読んだ論文です.SLMを2つ用いてベクトルビームを生成しています.1つ目のSLMで位相変調を,2つ目のSLMで偏光変調を行っています.また,生成したベクトルビームでガラスに加工をした時の実験も載っています.
 
-<!-- -  [(解説)](https://github.com/sk0ik/Vector_Beam/blob/main/File/001.Papers.md) -->
-
 ### [Flexible Method for Generating Arbitrary Vector Beams Based on Modified Off-Axis Interference-Type Hologram Encoding](https://www.mdpi.com/2304-6732/9/12/949)
 
 - None
 
 ### [Generation of arbitrary cylindrical vector vortex beams with cross-polarized modulation](https://www.sciencedirect.com/science/article/pii/S2211379720319161)
 
-- None
-
-### [Generation of arbitrary vector fields based on a pair of orthogonal elliptically polarized base vectors](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-4-4177&id=336569)
-
-- None
+- ベクトルビームを生成する際のそれぞれの光学素子の役割や,ホログラムのトポロジカルチャージの数などの影響が絵解きを通してわかりやすく述べられています.
 
 ### [Generation of V-point polarization singularity using single phase encoding with a spatial light modulator](https://www.nature.com/articles/s41598-022-27337-x)
 
-- None
+- 通常,ベクトルビームを生成する際は異なるホログラムにそれぞれ1回ずつ光をあてますが,この論文では1つのホログラムに2回光を当ててベクトルビームを生成しています.アジマス偏光ビームは生成できますがラジアル偏光ビームは原理的に生成できません.実際に自分も同じ光学系を組んでみて同じ実験をしました.同じようなベクトルビームを生成することができました.
 
 ### [A new type of vector fields with hybrid states of polarization](https://opg.optica.org/oe/fulltext.cfm?uri=oe-18-10-10786&id=199402)
 
@@ -622,6 +607,10 @@
 <div style="page-break-before:always"></div>
 
 ## 高次元ポアンカレ球
+
+### [Generation of arbitrary vector fields based on a pair of orthogonal elliptically polarized base vectors](https://opg.optica.org/oe/fulltext.cfm?uri=oe-24-4-4177&id=336569)
+
+- 2つの偏光状態の光を干渉させてベクトルビームを生成しています.
 
 ### [Controlled generation of higher-order Poincaré sphere beams from a laser](https://www.nature.com/articles/nphoton.2016.37)
 

@@ -328,31 +328,31 @@
 
 ### [A new type of vector fields with hybrid states of polarization](https://opg.optica.org/oe/fulltext.cfm?uri=oe-18-10-10786&id=199402)
 
-- None
+- フーリエ変換後のベクトルビームではなくSLMで変調された後の結像面を見ているのでそこが参考になりました.
 
 ### [Cylindrical vector beam multiplexer demultiplexer using off-axis polarization control](https://www.nature.com/articles/s41377-021-00667-7)
 
-- None
+- メタサーフェスを用いてベクトルビームを生成しています.メタサーフェスにできてSLMにできないことがありそれをSLMでやりたいと個人的には思っています.
 
 ### [Efficient generation of vector beams by calibrating the phase response of a spatial light modulator](https://opg.optica.org/ao/abstract.cfm?uri=ao-56-17-4956)
 
-- None
+- 独立に変調したx,y偏光成分を干渉させてベクトルビームを生成しています.1台のSLMでベクトルビームを生成するときに参考にした論文の一つです.また,SLMの位相変調量をキャリブレーションすることでベクトルビームを高精度にしています.幸いにも私の使用しているSLMはキャリブレーションがほとんど必要ないほど理想的なものであったので大丈夫でした.また,この光学系では光路が2つに分岐している(干渉している)ため振動などの外的な要因に弱いという欠点があります.
 
 ### [Efficient on-axis SLM engineering of optical vector modes](https://www.sciencedirect.com/science/article/abs/pii/S0143816619309959)
 
-- None
+- なぜSLMを2台使うと任意のベクトルビームを生成できるのかを数式から理解するために,この論文がとても勉強になりました.また,高次元ポアンカレ球という概念を知ったのもこの論文だったと思います.
 
 ### [Flexible generation of the generalized vector vortex beams](https://www.sciencedirect.com/science/article/abs/pii/S0030401821002662)
 
-- None
+- 先ほどの論文と同様に,なぜSLMを2台使うと任意のベクトルビームを生成できるのかを数式から理解するために読んだ論文の一つです.また,後半では干渉系によって位相も測定しています.
 
 ### [Polarization distribution control of parallel femtosecond pulses with spatial light modulators](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-11-12987&id=253727)
 
-- None
+- 補正することでベクトルビームの精度を上げる研究です.
 
 ### [Self-referenced interferometry for single-shot detection of vector-vortex beams](https://www.nature.com/articles/s41598-022-21485-w)
 
-- None
+- 1台のSLMに2回光を当てる光学系を組むときにこの論文を参考にしました.全く同じものを組もうと思いましたが光学系のサイズの関係で少し別のものにしました.
 
 ### [Nondiffracting Bessel beams with polarization state that varies with propagation distance](https://opg.optica.org/ol/fulltext.cfm?uri=ol-40-23-5451&id=332517)
 
@@ -360,9 +360,7 @@
 
 ### [SLMと共通光路干渉計を用いたベクトルビーム生成](https://www.virtuallab.jp/support/172/)
 
-- None
-
-<div style="page-break-before:always"></div>
+- 論文ではないですがベクトルビームを作るイメージが掴めます.
 
 ## 集光時の振る舞い
 

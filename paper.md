@@ -368,11 +368,11 @@
 
 ### [Vector beams excited nonlinear optical effects](https://www.worldscientific.com/doi/abs/10.1142/S0218863518500455)
 
-- None
+- 低NA,高NAのレンズで集光した時の振る舞いなど数式も含めて詳しく述べられています.
 
 ### [Formation of hybrid higher-order cylindrical vector beams using binary multi-sector phase plates](https://www.nature.com/articles/s41598-018-32469-0)
 
-- None
+- こちらも数式が詳しく載っています.またホログラムを色々変えて実際にベクトルビームを生成しています.
 
 ### [PyFocus – A Python package for vectorial calculations of focused optical fields under realistic conditions. Application to toroidal foci](https://arxiv.org/abs/2110.00160)
 
@@ -382,7 +382,7 @@
 
 ### [Polarization conversion when focusing cylindrically polarized vortex beams](https://www.nature.com/articles/s41598-016-0015-2)
 
-- None
+- 高NAレンズでベクトルビームを集光した時の振る舞いについて載っています.また,ビームを多点にもしています.
 
 ### [Tight focusing properties and focal field tailoring of cylindrical vector beams generated from a linearly polarized coherent beam array](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-4-5259&id=447176)
 
@@ -394,7 +394,7 @@
 
 ### [Focusing of high numerical aperture cylindrical-vector beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-7-2-77&id=63487)
 
-- None
+- 高NAレンズで集光したときにz方向(伝播方向)に光がどのようになるのかを調べています.
 
 ### [Lensless focusing of hypergeometric laser beams](https://iopscience.iop.org/article/10.1088/2040-8978/13/7/075703/meta)
 
@@ -436,13 +436,9 @@
 
 - None
 
-<div style="page-break-before:always"></div>
-
 ## 伝播時の振る舞い
 
 実験ではレンズの結像関係を用いて理想的な伝播状況を再現しますがどうしても自由空間中を伝播するくらいの光学系のずれは発生してしまいます.特にビームの位相と偏光状態によってどのようなビームが変化するかを載せています.
-
-とても古い論文です.
 
 ### [Electromagnetic diffraction in optical systems I. An integral representation of the image field](https://royalsocietypublishing.org/doi/10.1098/rspa.1959.0199)
 
